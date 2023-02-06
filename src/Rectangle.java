@@ -95,3 +95,29 @@ public class Rectangle { //make public for CS A
     }
 
 }
+///*public class superHero(){
+//    private String name;
+//    private Power power;
+//
+//    public superHero(String n, Power p)
+//        name = n;
+//        power = new Power(p.getName(), p.getStrength());
+//        //use getters as to get string and name for the new power
+//    }
+//public class Power() {
+//        private String name;
+//        private int strength;
+//
+//
+//        public Power() {
+//            name = "";
+//            strength = 0;
+//        }
+//
+//        public class Power(String name, int strength) {
+//            name =  s;
+//            strength = str;
+//            int str;
+//            int str = 15;
+//            String s = "Dash"
+//        }/
